@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: using sizeof to print the size of various types
- * Return: alwats 0 (success)
+ * Return: Alwats 0 (success)
 */
 int main(void)
 {
