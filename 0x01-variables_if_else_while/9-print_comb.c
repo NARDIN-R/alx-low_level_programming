@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: print a  z reversed
+ * Description: print all possible combinations of single-digit numbers
  *
  * Return: always 0 (success)
 */
