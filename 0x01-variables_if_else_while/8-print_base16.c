@@ -14,14 +14,14 @@ int main(void)
 
 	while (digit <= 102)
 	{
-		puchar(digit);
+		putchar(digit);
 
 
 		if (digit == 57)
 			digit += 39;
 		digit++;
 	}
-	puchar('/n');
+	putchar('/n');
 
 	return (0);
 }
